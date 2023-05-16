@@ -1,0 +1,44 @@
+header{
+    background-color: rgb(107, 114, 114);
+    
+}
+
+
+.Select
+{
+    display: inline;
+    height: 100px;
+    margin: 10px;
+      
+}
+
+
+#categ{
+    width: 20%;
+    height: 50px;
+    margin-left: 50px;
+    background-color: rgba(255, 255, 0, 0.658);
+}
+
+#pages{
+    color: white;
+    background-color: rgb(107, 114, 114);
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+a:visited {
+    color: rgb(206, 14, 14);
+}
+
+a:hover{
+    color: black;
+}
